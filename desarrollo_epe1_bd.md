@@ -1,6 +1,6 @@
 ## Desarrollo de la Actividad
 
-1. Se solicita generar script de una base de daros de nombre “BD_Atenciones_UEH” que contenga las presentes tablas y campos para poder almacenar la información de las atenciones a pacientes.
+1. Se solicita generar script de una base de datos de nombre “BD_Atenciones_UEH” que contenga las presentes tablas y campos para poder almacenar la información de las atenciones a pacientes.
 
 ```sql
 CREATE DATABASE IF NOT EXISTS bd_atenciones_ueh;
